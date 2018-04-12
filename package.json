@@ -1,0 +1,28 @@
+{
+  "name": "node-i18n-multilingual-server",
+  "version": "1.0.0",
+  "description": "Multilingual server with nodejs and i18n library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fahidnasir/node-i18n-multilingual-server.git"
+  },
+  "keywords": [],
+  "author": {
+    "email": "fahidnasir@hotmail.com",
+    "name": "Fahid Nasir"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahidnasir/node-i18n-multilingual-server/issues"
+  },
+  "homepage": "https://github.com/fahidnasir/node-i18n-multilingual-server#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "i18n": "^0.8.3"
+  }
+}
